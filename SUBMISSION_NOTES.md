@@ -77,7 +77,7 @@ python tests/test_architect.py
 ---
 
 ## 🌐 Public Repository & Live Demo Links
-- **GitHub Repository URL:** `https://github.com/<your-github-username>/cynbit-architect-ai` *(Please update with your published GitHub repo)*
+- **GitHub Repository URL:** [https://github.com/kavya1407/cynbit-architect-ai](https://github.com/kavya1407/cynbit-architect-ai)
 - **Candidate Submission Link:** [https://www.cynbit.in/candidate/cmsfo2w9e000304jqiqwfflbg](https://www.cynbit.in/candidate/cmsfo2w9e000304jqiqwfflbg)
 
 Thank you for the opportunity to present my approach. I look forward to contributing to Cynbit’s mission of architecting scalable digital platforms and autonomous systems!

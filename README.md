@@ -102,7 +102,7 @@ Ensure you have Python 3.10+ installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/cynbit-architect-ai.git
+git clone https://github.com/kavya1407/cynbit-architect-ai.git
 cd cynbit-architect-ai
 
 # Install dependencies
